@@ -1,5 +1,12 @@
 DictDiffer
 ===
+This fork:
+- added functions to generate reports:
+  - def report_added(self):
+  - def report_removed(self):
+  - def report_changed(self):
+  - def report_unchanged(self):
+
 
 Python class to take the difference of two python dictionaries:
 - what was added,
